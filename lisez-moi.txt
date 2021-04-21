@@ -1,0 +1,15 @@
+Une application de commerce électronique (e-commerce) créée avec Django et Vue.
+
+Le client a la possibilité de chercher les produits, de les trier, de l'ajouter au panier pour ensuite faire l'achat.
+Il pourra lister les produits et d'augmenter ou de diminuer la quantité.
+Si le client ne s'est pas connecter, il n'a pas donc la possiblité de faire l'achat.
+
+
+LOCALHOST:
+vue: http://localhost/8080
+django: 127.0.0.1:8000
+
+
+Django ADMIN:
+Username: alain
+Password: alain1234
